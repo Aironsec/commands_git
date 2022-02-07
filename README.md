@@ -1,1 +1,1 @@
-# commands_git
+# Command for working with git
